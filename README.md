@@ -23,6 +23,10 @@ I like
 
 ### You can contact me
 
-[<img align="left" alt="TELEGRAM" width="26px" src="https://slutsk24.by/wp-content/uploads/2023/02/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg"/>][https://t.me/SergeyLesnevsky]
-[<img align="left" alt="LINKEDIN" width="26px" src="https://logodix.com/logo/692113.jpg"/>][www.linkedin.com/in/lesnevsky-sergey-39b975243]
-[<img align="left" alt="EMAIL" width="26px" src="https://flyclipart.com/thumb2/subscribe-to-quickscrip-emails-928700.png"/>][lesnevsky.sergey@gmail.com]
+[<img align="left" alt="TELEGRAM" width="26px" src="https://slutsk24.by/wp-content/uploads/2023/02/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg"/>][telegram]
+[<img align="left" alt="LINKEDIN" width="26px" src="https://logodix.com/logo/692113.jpg"/>][LINKEDIN]
+[<img align="left" alt="EMAIL" width="26px" src="https://flyclipart.com/thumb2/subscribe-to-quickscrip-emails-928700.png"/>][EMAIL]
+
+[telegram]:https://t.me/SergeyLesnevsky
+[LINKEDIN]:www.linkedin.com/in/lesnevsky-sergey-39b975243
+[EMAIL]:lesnevsky.sergey@gmail.com
