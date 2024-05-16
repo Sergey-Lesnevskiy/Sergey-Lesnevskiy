@@ -3,8 +3,8 @@
 ### I'm a frontend developer
 
 I like 
-- :game: world of tanks
-- :folkpunk: Rock'n'Roll
+
+- :metal: Rock'n'Roll
 - :computer: coding
 
 ---
@@ -25,8 +25,8 @@ I like
 
 [<img align="left" alt="TELEGRAM" width="26px" src="https://slutsk24.by/wp-content/uploads/2023/02/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg"/>][telegram]
 [<img align="left" alt="LINKEDIN" width="26px" src="https://logodix.com/logo/692113.jpg"/>][LINKEDIN]
-[<img align="left" alt="EMAIL" width="26px" src="https://flyclipart.com/thumb2/subscribe-to-quickscrip-emails-928700.png"/>][EMAIL]
+<br/>
+EMAIL: lesnevsky.sergey@gmail.com
 
 [telegram]:https://t.me/SergeyLesnevsky
-[LINKEDIN]:www.linkedin.com/in/lesnevsky-sergey-39b975243
-[EMAIL]:lesnevsky.sergey@gmail.com
+[LINKEDIN]:https://www.linkedin.com/in/lesnevsky-sergey-39b975243
